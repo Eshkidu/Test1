@@ -2,6 +2,8 @@
 
 [Google](https://www.google.com)
 
-[Minecraft 1.12.2](https://eaglercraft.com/play/?version=1.12.2-wasm)
+[Balatro](https://helpdesk.sentinet.co.za/resources/semag/balatro/index.html)
 
-[Geforce now ](https://play.geforcenow.com/mall/#/layout/games)
+[Buckshot Roulette](https://helpdesk.sentinet.co.za/loader.html?title=Buckshot%20Roulette&dir=buckshot-roulette&img=buckshot-roulette.apple-touch-icon.png&type=g)
+
+[Geforce Now ](https://play.geforcenow.com/mall/#/layout/games)
